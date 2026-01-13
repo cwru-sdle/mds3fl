@@ -1,3 +1,1 @@
-# mds3FL
-Server, Client, init, Algo
-Algo is dicided by server
+MDS3FL: MDS Federated Learning package
