@@ -313,6 +313,6 @@ Suggested next cleanup tasks:
    local training instead of only adjusting the server aggregation result.
 
 ## License
+This project is licensed under the BSD 3-Clause License.
 
-No license file is currently included. Add one before publishing or sharing the
-package publicly.
+
